@@ -1,0 +1,9 @@
+@import 'vars', '_mixin';
+
+.header{
+    @include dja(space-around, center);
+    background-color: $negro;
+    box-shadow: $shadow;
+    width: 100%;
+    padding: .5em 5%;
+}

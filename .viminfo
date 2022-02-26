@@ -1,0 +1,43 @@
+# Vim 8.2 generó este archivo "viminfo".
+# Puede editarlo, ¡sólo si tiene cuidado!
+
+# Viminfo version
+|1,4
+
+# Valor de 'encoding' cuando se escribió este archivo
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Historia de Línea de órdenes (de lo más nuevo a lo más antiguo):
+
+# Historia de Cadena de búsqueda (de lo más nuevo a lo más antiguo):
+
+# Historia de Expresión (de lo más nuevo a lo más antiguo):
+
+# Historia de Línea de entrada (de lo más nuevo a lo más antiguo):
+
+# Historia de Debug Line (de lo más nuevo a lo más antiguo):
+
+# Registros:
+""-	CHAR	0
+	/
+|3,1,36,0,1,0,1602048019,"/"
+
+# Marcas en el archivo:
+'0  1  0  ~/Documents/otro-proyecto/.git/config
+|4,48,1,0,1602048108,"~/Documents/otro-proyecto/.git/config"
+
+# Lista de saltos (el más reciente va primero):
+-'  1  0  ~/Documents/otro-proyecto/.git/config
+|4,39,1,0,1602048108,"~/Documents/otro-proyecto/.git/config"
+
+# Historia de las marcas en los archivos (de la más reciente a la más antigua):
+
+> ~/Documents/otro-proyecto/.git/config
+	*	1602048050	0
+	"	1	0
+	.	1	0
+	+	1	218
+	+	1	0
